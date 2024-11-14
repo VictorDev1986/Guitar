@@ -1,6 +1,6 @@
 # Landing page Guitar
 
-WEB SITE: [Guitar](https://lovely-platypus-53c099.netlify.app/)
+WEB SITE: [Guitar](https://sparkling-pony-785eff.netlify.app/)
 
 https://github.com/user-attachments/assets/ecb598be-2601-4d03-b9b0-70f74af036bd
 
