@@ -7,6 +7,13 @@ const mobileMenu = document.getElementById('mobile-menu');
 const menuIconOpen = document.getElementById('menu-icon-open');
 const menuIconClose = document.getElementById('menu-icon-close');
 
+// Inicializar botón de carrito
+document.addEventListener('DOMContentLoaded', () => {
+    if (typeof initCartMenuButton === 'function') {
+        initCartMenuButton();
+    }
+});
+
 window.addEventListener('scroll', () => {
     if (window.scrollY > 50) {
         header.classList.add('bg-white', 'shadow-lg');
